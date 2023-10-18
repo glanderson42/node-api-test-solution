@@ -1,5 +1,5 @@
 # Node Api Test Solution
-Solution for the following [assigment](https://github.com/VF19CMI/node-api-test)
+Solution for the following [assignment](https://github.com/VF19CMI/node-api-test)
 
 ## Run the solution
 ```
